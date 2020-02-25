@@ -1,0 +1,6 @@
+2020-02-25 19:47:55 INFO  Simpleinterest:13 -enter  principal amount:
+2020-02-25 19:48:03 INFO  Simpleinterest:15 -enter  no.of years:
+2020-02-25 19:48:05 INFO  Simpleinterest:17 -enter rate of interest:
+2020-02-25 19:48:08 INFO  Simpleinterest:21 -Simpleinterest is :300.0
+2020-02-25 19:48:08 INFO  Simpleinterest:22 -Compoundinterest is:304.5
+2020-02-25 19:48:08 INFO  Simpleinterest:23 -executed successfully
